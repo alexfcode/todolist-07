@@ -1,9 +1,9 @@
 .app {
-  padding: 30px;
-  display: flex;
+  /* padding: 30px;
+  display: flex; */
 }
 
-.app > div {
+/* .app > div {
   margin-right: 50px;
 }
 
@@ -26,4 +26,4 @@
 
 .is-done {
   opacity: 0.5;
-}
+} */
